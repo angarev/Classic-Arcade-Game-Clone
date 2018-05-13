@@ -1,7 +1,8 @@
 # Frogger Game
 ===============================
-##Summary
 
+
+##Summary
 Frogger Game is a clone of the classic Frogger arcade game.
 
 ##Main Goal
