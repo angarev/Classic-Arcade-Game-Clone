@@ -20,7 +20,7 @@ Download the GitHub zip file or clone the repository onto your local workstation
 git clone https://github.com/angarev/Classic-Arcade-Game-Clone.git
 Open a browser window and navigate to the index.html file in your application's directory.
 
-##Tools / Techniques
+## Tools / Techniques
 * Object-Oriented JavaScript
 * ES6
 * HTML5 Canvas
